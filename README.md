@@ -24,3 +24,10 @@ export function Pokedex() {
 }
 ```
 
+***
+
+```bash
+git clone https://github.com/manuartero/master-inesdi-2024-var-isnt-enough-for-react-state
+cd master-inesdi-2024-var-isnt-enough-for-react-state
+npm i && npm run dev
+```
