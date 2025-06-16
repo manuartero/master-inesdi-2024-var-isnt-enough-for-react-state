@@ -1,6 +1,6 @@
-# Example: Var isn't enough for React State.
+# Master INESDI 2025 ![icon](public/bulbasur.png)
 
-## Master INESDI 2024 ![icon](public/bulbasur.png)
+## Example: Var isn't enough for React State.
 
 The need of `React.useState()`
 
